@@ -6,7 +6,7 @@ import "./nav.scss";
 import menuItems from "../../data/nav.json";
 import phone from '../../images/phone.svg';
 import arrow from '../../images/arrow.svg'
-
+import { StaticImage } from "gatsby-plugin-image"
 
 const Navigation = props => {
 
@@ -87,7 +87,8 @@ const Navigation = props => {
                       role="button"
                       {...props}
                     >
-                      <img src={item.icon} alt="Right Arrow" />
+                  
+                      <img src={item.icon} alt="nav icon" />
                       {item.displayText}
                     </Link>
                   </li>
