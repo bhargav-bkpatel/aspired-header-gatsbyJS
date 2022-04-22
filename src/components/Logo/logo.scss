@@ -1,0 +1,11 @@
+@import "../../styles/config";
+
+.logo {
+  width: 12.5rem;
+  @media (max-width: $breakpoint-medium) {
+    width: 7.625rem;
+  }
+  img{
+    max-width: 100%;
+  }
+}

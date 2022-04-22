@@ -1,0 +1,138 @@
+{
+  "topLevelItems": [
+    {
+      "displayText": "Services",
+      "url": "#",
+      "itemType": "Link",
+      "megaMenu": true,
+      "submenu": [
+        {
+          "displayText": "Hire React Native Developer",
+          "url": "#",
+          "icon": "/static/images/company.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire PHP Developer",
+          "url": "#",
+          "icon": "/static/images/clients.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Android Developer",
+          "url": "#",
+          "icon": "/static/images/processes.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Game Developer",
+          "url": "#",
+          "icon": "/static/images/blog.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Mobile App Developer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire QA Engineer ",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Blockchain Developer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire DevOps Engineer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire iOS Developer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire NFT Developer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Back-end Developer",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Hire Front-end Engineers",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        }
+      ]
+    },
+    {
+      "displayText": "About",
+      "url": "#",
+      "itemType": "Link",
+      "submenu": [
+        {
+          "displayText": "Company",
+          "url": "#",
+          "icon": "/static/images/company.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Clients",
+          "url": "#",
+          "icon": "/static/images/clients.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Processes",
+          "url": "#",
+          "icon": "/static/images/processes.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Blog",
+          "url": "#",
+          "icon": "/static/images/blog.svg",
+          "itemType": "Link"
+        },
+        {
+          "displayText": "Pricing",
+          "url": "#",
+          "icon": "/static/images/pricing.svg",
+          "itemType": "Link"
+        }
+      ]
+    },
+    {
+      "displayText": "Success Stories",
+      "url": "#",
+      "itemType": "Link"
+    },
+    {
+      "displayText": "Contact",
+      "url": "#",
+      "itemType": "Link"
+    }
+  ],
+  "contactNumber": {
+    "displayText": "+1-800-973-0714"
+  },
+  "navButton": {
+    "displayText": "Hire Developers",
+    "url": "#"
+  }
+}
